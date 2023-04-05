@@ -640,4 +640,6 @@ updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT suppor
 <a href="https://www.patreon.com/join/badmojr/"><img src="./-data/static/img/patron.png" title="Become a patron"></a>
 &nbsp;
 <a href="https://t.me/one_hosts"><img src="./-data/static/img/tg.png" title="Join us on Telegram"></a>
+&nbsp;
+<a href="https://neweralearning.app/a/?ref=7hdnzhr7tm"><img src="./-data/static/img/trw.png" title="Join TRW">
 </p>
