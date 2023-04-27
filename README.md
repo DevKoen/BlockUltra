@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/badmojr/1Hosts"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="repo size"></a>
-    <a href="https://github.com/badmojr/1Hosts/commits/master"><img src="https://img.shields.io/github/commit-activity/w/badmojr/1Hosts?logo=adblock&style=plastic" alt="commit activity"></a>
-    <a href="https://github.com/badmojr/1Hosts/commits/master"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="last commit"></a>
-    <a href="https://github.com/badmojr/1Hosts"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadmojr%2F1Hosts_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
+    <a href="/"><img src="https://img.shields.io/static/v1?label=Launched:&message=5%20years%20ago&color=yellowgreen&style=plastic%22"></a>
+    <a href="/"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
+    <a href="/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbadmojr%2F1Hosts_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
+    <a href="https://github.com/badmojr/1Hosts"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
 </p>
 
 # ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
@@ -630,17 +630,19 @@ updates daily; no support for subdomain/wildcard & CNAME blocking; no DoT suppor
 <p align="center"><strong>users. fans. mentions.</strong> <br>
 <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
 <a href="https://github.com/yokoffing/NextDNS-Config">github.com/yokoffing/NextDNS-Config</a> <br>
-<a href="https://kb.controld.com/en/3rd-party-filters">kb.controld.com/en/3rd-party-filters</a> <br>
-<a href="https://socialgrep.com/search?query=1hosts%2Clite">users' comments: 1Hosts (Lite)</a> <br>
-<a href="https://socialgrep.com/search?query=1hosts%2Cpro">comments: 1Hosts (Pro)</a> <br>
+<a href="https://docs.controld.com/docs/free-dns">docs.controld.com/docs/free-dns</a> <br>
+<a href="https://socialgrep.com/search?query=1hosts">comments: 1Hosts</a> <br>
 </p>
 
 ----------------
-Growth links: <br>
+_Help us create a better experience <3!_  
+**Support us, donate or share.**
+<br>
 <a href="https://www.patreon.com/join/badmojr/"><img src="./-data/static/img/patron.png" title="Become a patron"></a>
 &nbsp;
 <a href="https://t.me/one_hosts"><img src="./-data/static/img/tg.png" title="Join us on Telegram"></a>
 &nbsp;
 <a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
 &nbsp;
-<a href="https://neweralearning.app/a/?ref=7hdnzhr7tm"><img src="./-data/static/img/trw.png" title="Explore proven ways to make money online">        
+<a href="https://neweralearning.app/a/?ref=7hdnzhr7tm"><img src="./-data/static/img/trw.png" title="Explore proven ways to make money online">
+
