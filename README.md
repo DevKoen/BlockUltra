@@ -497,15 +497,21 @@
 
 **Quickstart Guide**<br>
 ----------------
-Start with a ***Lite*** list first.<br>
+
+<p>
+   To ensure the best user experience, 1Hosts has 4 versions each with varying levels of protection.<br>
+   Our Lite version is designed not to impact UX, whereas the Pro and Xtra versions cater to users with advanced blocking needs.
+</p>
+
+Start with ***Lite*** first.<br>
 If you decide that ***Lite*** isn't for you, then move upwards or downwards the chain.<br>
 
 - If **Lite** is too harsh for your taste, downgrade to ***mini***.<br>
 - If **Lite** doesn't block enough, upgrade to ***Pro***.<br>
-- ***Pro*** still not enough? Use **Xtra**.<br><br>
+- ***Pro*** still not enough? **Xtra** is the way to go.<br><br>
  
  
-**Use these free DNS resolvers to immediately start using 1Hosts.**<br>
+**Use these free DNS resolvers to start using 1Hosts right away:**<br>
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
 updates every hour; supports subdomain/wildcard & CNAME blocking; unlimited queries.<br>
 <table>
