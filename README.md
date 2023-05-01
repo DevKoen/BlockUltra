@@ -650,5 +650,5 @@ _Help us create a better experience <3!_
 &nbsp;
 <a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
 &nbsp;
-<a href="https://neweralearning.app/a/?ref=7hdnzhr7tm"><img src="./-data/static/img/trw.png" title="Explore proven ways to make money online">
+<a href="https://jointherealworld.com/a/7hdnzhr7tm"><img src="./-data/static/img/trw.png" title="Explore proven ways to make money online">
 
